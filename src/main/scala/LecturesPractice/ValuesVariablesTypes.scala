@@ -22,5 +22,5 @@ object ValuesVariablesTypes extends App {
     // variables
     var aVariable: Int = 4
 
-    aVariable = 5 // side effects l
+    aVariable = 5 // side effects
 }
